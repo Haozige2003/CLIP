@@ -1,0 +1,31 @@
+﻿image_path,description,label,similarity_score
+images\img_000_bus.jpg,a white bus is parked by the roadside,match,0.295449
+images\img_000_bus.jpg,a modern glass skyscraper against a blue sky,irrelevant,0.171708
+images\img_001_dog.jpg,a people is sitting on the sofa holding two dogs in his arms,match,0.308805
+images\img_001_dog.jpg,a steaming cup of black coffee on a wooden table,irrelevant,0.152543
+images\img_002_sunset.jpg,Snow-covered ground under the sunset,match,0.253932
+images\img_002_sunset.jpg,a vintage typewriter sitting on an oak desk,irrelevant,0.099989
+images\img_003_mountain.jpg,The green forest blends with the blue sky,match,0.260783
+images\img_003_mountain.jpg,a plate of freshly baked chocolate chip cookies,irrelevant,0.160713
+images\img_004_pizza.jpg,a slice of pepperoni pizza fresh from the oven,match,0.263245
+images\img_004_pizza.jpg,a wild tiger walking through the jungle,irrelevant,0.15213
+images\img_005_sushi.jpg,a plate of rice served with seafood,match,0.309907
+images\img_005_sushi.jpg,a lighthouse standing on a rocky cliff by the sea,irrelevant,0.128613
+images\img_006_castle.jpg,a historic castle perched on a green hilltop,match,0.25108
+images\img_006_castle.jpg,a dolphin jumping out of the blue ocean,irrelevant,0.139889
+images\img_007_bridge.jpg,a park beside the water,match,0.257556
+images\img_007_bridge.jpg,a bowl of hot ramen with sliced eggs and spring onion,irrelevant,0.098414
+images\img_008_beach.jpg,a tropical beach with crystal-clear turquoise water,match,0.147978
+images\img_008_beach.jpg,a microscope on a laboratory bench with glass slides,irrelevant,0.094271
+images\img_009_flower.jpg,a field full of blooming lavender under sunlight,match,0.118066
+images\img_009_flower.jpg,a chess board mid-game with pieces scattered around,irrelevant,0.092455
+images\img_010_forest.jpg,a lush green forest path in spring,match,0.190869
+images\img_010_forest.jpg,a shiny electric guitar leaning against an amplifier,irrelevant,0.131154
+images\img_011_bird.jpg,a bird in flight,match,0.295088
+images\img_011_bird.jpg,a steam locomotive pulling into an old railway station,irrelevant,0.090035
+images\img_012_coffee.jpg,a steaming cup of black coffee on a wooden table,match,0.26803
+images\img_012_coffee.jpg,a snowy mountain peak reflecting in a lake,irrelevant,0.133827
+images\img_013_car.jpg,a car covered with a sunshade cloth,match,0.269058
+images\img_013_car.jpg,a tropical beach with crystal-clear turquoise water,irrelevant,0.087898
+images\img_014_horse.jpg,a horse galloping across an open field,match,0.27356
+images\img_014_horse.jpg,a modern glass skyscraper against a blue sky,irrelevant,0.131243
