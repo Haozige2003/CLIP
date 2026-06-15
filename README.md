@@ -17,7 +17,7 @@
 
 ## 数据集（15 个关键词）
 
-cat, dog, sunset, mountain, pizza, sushi, castle, bridge,
+bus, dog, sunset, mountain, pizza, sushi, castle, bridge,
 beach, flower, forest, bird, coffee, car, horse
 
 每个关键词对应 1 条贴合描述 + 1 条语义不相关描述，共 30 条记录。
